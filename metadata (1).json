@@ -1,0 +1,14 @@
+{
+  "name": "8xtoken test",
+  "symbol": "8xtest",
+  "description": "This is a test token named 8xtoken test with symbol 8xtest.",
+  "image": "8xtoken-logo.jpg",
+  "properties": {
+    "files": [
+      {
+        "uri": "8xtoken-logo.jpg",
+        "type": "image/jpeg"
+      }
+    ]
+  }
+}
